@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.licdn.com/dms/image/D4E12AQHIj0OwT-dN_Q/article-cover_image-shrink_720_1280/0/1706121453304?e=2147483647&v=beta&t=qsrT51GTN_DPjNUlnqnAUBmCHTfFlcYEKLzOyKZ-RXY">
 
 <h1>
     <span>Igor Matias</span>
@@ -13,8 +13,8 @@
 -->
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/tadziomatias/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/tadziomatias/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0076FF&color:FFF)](https://www.linkedin.com/in/tadziomatias/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0076FF&color:FFF)](https://www.instagram.com/tadziomatias/)
 
 
 <details align="left">
