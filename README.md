@@ -7,15 +7,31 @@
 <p align="justify">Back-end Student from João Pessoa-PB, Brazil. Developing Python and data analysis skills. My first "Hello World" emerged from the need to present data from my work with Wildlife Hazard Management using Python.
 <br>
  Passionate about wildlife and technology, I currently work at João Pessoa International Airport.</p>
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
+
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0076FF&color:FFF)](https://www.linkedin.com/in/tadziomatias/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0076FF&color:FFF)](https://www.instagram.com/tadziomatias/)
 
+---
+
+###
+---
+
+<a href="https://github.com/tadziomatias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadziomatias&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadziomatias&layout=compact&langs_count=6&theme=gotham"/>
+
+---
+
+### Tecnologias e linguagens
+[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
+
+### Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=django,sqlite)](https://skillicons.dev)
+
+### Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 <details align="left">
   <summary></summary> 
