@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.licdn.com/dms/image/D4E12AQHIj0OwT-dN_Q/article-cover_image-shrink_720_1280/0/1706121453304?e=2147483647&v=beta&t=qsrT51GTN_DPjNUlnqnAUBmCHTfFlcYEKLzOyKZ-RXY">
+<img align="right" alt="Hacker cartoon - www.freepik.com" height="380" src="[https://media.licdn.com/dms/image/D4E12AQHIj0OwT-dN_Q/article-cover_image-shrink_720_1280/0/1706121453304?e=2147483647&v=beta&t=qsrT51GTN_DPjNUlnqnAUBmCHTfFlcYEKLzOyKZ-RXY](https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg">
 
 <h1>
     <span>Igor Matias</span>
