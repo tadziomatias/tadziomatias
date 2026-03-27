@@ -1,3 +1,4 @@
+
 <img 
     align="right" 
     alt="software-developer-programmer" 
@@ -21,21 +22,33 @@
 
 ###
 ---
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tadziomatias&theme=gotham&hide_border=true" />
+</div>
 
-<a href="https://github.com/tadziomatias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadziomatias&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadziomatias&layout=compact&langs_count=6&theme=gotham"/>
+
+<div align="center">
+  <a href="https://github.com/tadziomatias">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadziomatias&layout=compact&langs_count=6&theme=gotham"/>
+  </a>
+</div>
 
 ---
 
-### Tecnologias e linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
+<div align="center">
 
-### Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=django,sqlite)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 <details align="left">
   <summary></summary> 
