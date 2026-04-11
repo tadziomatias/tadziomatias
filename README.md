@@ -1,10 +1,4 @@
 
-<img 
-    align="right" 
-    alt="software-developer-programmer" 
-    height="380" 
-    src="https://png.pngtree.com/png-vector/20240805/ourmid/pngtree-freelancer-software-developer-programmer-coder-illustrator-png-image_13076689.png">
-
 <h1>
     <span>Igor Matias</span>
 </h1>
